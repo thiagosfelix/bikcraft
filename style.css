@@ -119,7 +119,7 @@ img {
 .introducao {
 	width: 100%;
 	height: 380px;
-	background: url("../img/bg.jpg") no-repeat center;
+	background: url("bg.jpg") no-repeat center;
 	background-size: cover;
 	margin-top: 92px;
 	text-align: center;
@@ -274,7 +274,7 @@ img {
 	width: 634px;
 	height: 83px;
 	display: block;
-	background: url("../img/linhas.svg") no-repeat center;
+	background: url("linhas.svg") no-repeat center;
 	position: absolute;
 	top: 209px;
 	right: 162px;
@@ -318,7 +318,7 @@ img {
 .quebra {
 	width: 100%;
 	height: 220px;
-	background: url("../img/bg-footer.jpg") no-repeat center;
+	background: url("bg-footer.jpg") no-repeat center;
 	background-size: cover;
 	text-align: center;
 	padding-top: 40px;
